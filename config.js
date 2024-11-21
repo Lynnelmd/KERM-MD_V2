@@ -19,7 +19,7 @@ global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vafn6hc7D
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/40ffc2a288542560c887c.jpg";
 global.devs = "https://wa.me/237650564445 , https://wa.me/237656520674";
 global.sudo = process.env.SUDO || "237650564445";
-global.owner = process.env.OWNER_NUMBER || "237656520674";
+global.owner = process.env.OWNER_NUMBER || "25765809718";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -42,7 +42,7 @@ global.scan = "https://kgtech-v2-session.onrender.com";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  "PUT YOUR SESSION HERE"
+  "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYVBEUU5nN0k1QjZmVGdCalVaM2ZpTWFmWU55anRIL3V5UlNEdEtVWUxHVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWGpyb2lGU0ZpWGNmV0dhLzNpOWZnUDhKcHVHUlh0SGZiRXlidFFPSW1oRT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJZUHpzeERKVnpNaTMrRVExamVKRzAraUppR24rekZZZGJTS213dzhIMzFjPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIxV05lYXNlQ0dlVWZpSzFFdzdiSGJKQkJ0bHg5U1pJaDdlQkltenp4T1dNPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjBJWi9VRmJjN3I1TGE2dWFzVU80VjIzZ01zTHZVeFNZWVNPbEhwTDhNVUE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlZBc0ZmanByb2RWVktNNnNTSmNyUWNXMzM0Wk1LRkxmdENYRDlvUTFnU2M9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieURxV2JjZ0RJTmtkU0liSUNpTE1jZENJdjJWK1RlR3lwQjdWckRHMi9rcz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiODRSZXpZRjc3di80TU5PTzhBQnU3QVMvbU8xZEJsRFo1bFlBR1UyQ0Jpcz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InJUa0NaMEZyeXZ6aHV1d0pJTlVic3Vpc1Fid0IxNi9nYk9UREp1dm9zdkwyQ29mdFc3ZGlzUno3SUdIekNYRjZDQUZWVTFLK2dDekgwaStSUnVtNWdnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjUsImFkdlNlY3JldEtleSI6ImRnVUh5TmdqYVlKcGx2eTBxTllNKy9zUUpqWjRNc2V4OEtKeTBlVWlLOWs9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6Ill6bjB3ekIwUjhpa3lybWhWUG50Y2ciLCJwaG9uZUlkIjoiYzYwM2EyY2YtNDczNC00YzEwLTlkOGMtY2MxNzY0NjIwYzliIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImFkODdoWERjV3lPaFhGaHAxT21uV21ZeVErZz0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJRUDFFV3pnQkFZbDI5NGgzeHIxdEZMdHZ4WDg9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiRUdZUDlLVDUiLCJtZSI6eyJpZCI6IjI1NzY1ODA5NzE4OjcxQHMud2hhdHNhcHAubmV0IiwibmFtZSI6IuS6l+C8kuOAji5g4YCC4YC74YCt4YCv4YCU4YCe4YCU4YC64YGLL1/hgJzhgLAu44CPIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNOK2ZnSjRIRUp6Ny9Ma0dHQWtnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJvNHBIdEFkQWNXYXNOWE1FdDN4R0RWRmJhMWZsUWFYYmdqdElrck9lYkVNPSIsImFjY291bnRTaWduYXR1cmUiOiJwSWJXVUFiK0NkS0dCUDNQT0RDTjRHbzJ3MFp4eFk1Y1dWRUgxQ2ptVjVYQ3JBRTlTbmJrMHpaaGRVenNhWUo4bFkycVE4NmNsQWxtNkFseHUrbHRBZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoianMvZUJ6d1ZrTFdSTER6TVBkZnczUC9nRDBJd3phaFVMZ3lDNno4Um54SEdzdGQxVU1HOE1TUGszSEp1TCs2eU5ldWxDRk5uREloK1lZNFBBZnlnaGc9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNTc2NTgwOTcxODo3MUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJhT0tSN1FIUUhGbXJEVnpCTGQ4UmcxUlcydFg1VUdsMjRJN1NKS3pubXhEIn19XSwicGxhdGZvcm0iOiJzbWJhIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzMyMTk3ODAzLCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUx1eiJ9"
 module.exports = {
   menu: process.env.MENU || "1",
   HANDLERS: process.env.PREFIX || ".",
@@ -52,7 +52,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || "KG TECH",
   packname: process.env.PACK_NAME || "Kerm-MD-V2",
   botname: process.env.BOT_NAME || "ᵏᵍ┘𝙺𝙴𝚁𝙼_𝙼𝙳_𝚅𝟸𖤐",
-  ownername: process.env.OWNER_NAME || "☞⌜ KG TECH⌝☜",
+  ownername: process.env.OWNER_NAME || "ban",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "tCxobE1FqJgfbDZgsYQNHBFB",
